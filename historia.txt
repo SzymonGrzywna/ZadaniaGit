@@ -1,0 +1,620 @@
+commit dba16e26ff0b97e35376b4bdcb160fe614ec46a6
+Author: SzymonG <twoj@email.pl>
+Date:   Thu Jul 3 17:05:02 2025 +0200
+
+    skasowanie historia.txt
+
+diff --git a/historia.txt b/historia.txt
+deleted file mode 100644
+index 09405dc..0000000
+--- a/historia.txt
++++ /dev/null
+@@ -1,198 +0,0 @@
+-commit 5eac6b393d82db1c45886fc42304c0d03427c99c
+-Author: SzymonG <twoj@email.pl>
+-Date:   Wed Jul 2 19:10:04 2025 +0200
+-
+-    Przywracam plik finalnykoniec.txt po cofnięciu
+-
+-diff --git a/finalnykoniec.txt b/finalnykoniec.txt
+-index f4efab0..bb6b0a3 100644
+---- a/finalnykoniec.txt
+-+++ b/finalnykoniec.txt
+-@@ -1,4 +1,4 @@
+--
+-+La la la…
+- 
+- Espresso macchiato
+- Espresѕo macchiаto
+-\ No newline at end of file
+-
+-commit e33789f296644e0b6b73081023305e9098284712
+-Author: SzymonG <twoj@email.pl>
+-Date:   Wed Jul 2 15:56:52 2025 +0200
+-
+-    finalnykoniec.txt zostala skasowana 1linijka lala
+-
+-diff --git a/finalnykoniec.txt b/finalnykoniec.txt
+-index bb6b0a3..f4efab0 100644
+---- a/finalnykoniec.txt
+-+++ b/finalnykoniec.txt
+-@@ -1,4 +1,4 @@
+--La la la…
+-+
+- 
+- Espresso macchiato
+- Espresѕo macchiаto
+-\ No newline at end of file
+-
+-commit f35dcafc44aab425a51db2d7d5640625364f3007
+-Author: SzymonG <twoj@email.pl>
+-Date:   Wed Jul 2 15:54:17 2025 +0200
+-
+-    finalnykoniec.txt zostal dodany
+-
+-diff --git a/finalnykoniec.txt b/finalnykoniec.txt
+-new file mode 100644
+-index 0000000..bb6b0a3
+---- /dev/null
+-+++ b/finalnykoniec.txt
+-@@ -0,0 +1,4 @@
+-+La la la…
+-+
+-+Espresso macchiato
+-+Espresѕo macchiаto
+-\ No newline at end of file
+-
+-commit fa4fecda66298415edf4e04b7aa78b0d188825f8
+-Author: SzymonG <twoj@email.pl>
+-Date:   Wed Jul 2 15:51:17 2025 +0200
+-
+-    dodaje 2 zwrotke
+-
+-diff --git a/zwrtoka2.txt b/zwrtoka2.txt
+-new file mode 100644
+-index 0000000..6d31148
+---- /dev/null
+-+++ b/zwrtoka2.txt
+-@@ -0,0 +1,12 @@
+-+Mi like to fly privati
+-+With 24 carati
+-+Also mi casa very
+-+Grandioso
+-+Mi money numeroso
+-+I work around the clocko
+-+That's why I'm sweating like a mafioso
+-+
+-+Life is like spaghetti
+-+It's hard until you make it
+-+No stresso no stresso
+-+It's gonna be espresso
+-\ No newline at end of file
+-
+-commit be5f1e3950d1170f1a07e60e2652834a138e07c2
+-Author: SzymonG <twoj@email.pl>
+-Date:   Wed Jul 2 15:48:42 2025 +0200
+-
+-    Dodaje refren
+-
+-diff --git a/refren.txt b/refren.txt
+-new file mode 100644
+-index 0000000..c833878
+---- /dev/null
+-+++ b/refren.txt
+-@@ -0,0 +1,14 @@
+-+Mi amore
+-+Mi amore
+-+Espresso macchiato, macchiato, macchiato
+-+Por favore
+-+Por favore
+-+Espresso macchiato corneo
+-+
+-+Mi amore
+-+Mi amore
+-+Espresso macchiato, macchiato, macchiato
+-+Por favore
+-+Por favore
+-+Espresso macchiato
+-+Espresso macchiato
+-\ No newline at end of file
+-
+-commit 4e5784239a97734426a6a15ebd65cc267d91bfa9
+-Author: SzymonG <twoj@email.pl>
+-Date:   Wed Jul 2 15:47:47 2025 +0200
+-
+-    Dodaje 1 zwrotke
+-
+-diff --git a/zwrotka1.txt b/zwrotka1.txt
+-new file mode 100644
+-index 0000000..19f0796
+---- /dev/null
+-+++ b/zwrotka1.txt
+-@@ -0,0 +1,11 @@
+-+Ciao bella I'm Tomaso
+-+Addicted to tobacco
+-+Me like my coffee very importante
+-+
+-+No time to talk mi scusi
+-+My days are very busy
+-+And i just own this little ristorante
+-+Life may give you lemons
+-+When dancing with the demons
+-+No stresso no stresso
+-+No need to be depresso
+-\ No newline at end of file
+-
+-commit 0a223597e0ffc3fcf92d2c2b0966e4d93c5d41f8
+-Author: SzymonG <twoj@email.pl>
+-Date:   Wed Jul 2 15:12:12 2025 +0200
+-
+-    Dodaje plik cala_piosenka.txt z cala piosenka
+-
+-diff --git a/cala_piosenka.txt b/cala_piosenka.txt
+-new file mode 100644
+-index 0000000..40d9782
+---- /dev/null
+-+++ b/cala_piosenka.txt
+-@@ -0,0 +1,53 @@
+-+Ciao bella I'm Tomaso
+-+Addicted to tobacco
+-+Me like my coffee very importante
+-+
+-+No time to talk mi scusi
+-+My days are very busy
+-+And i just own this little ristorante
+-+Life may give you lemons
+-+When dancing with the demons
+-+No stresso no stresso
+-+No need to be depresso
+-+
+-+Mi amore
+-+Mi amore
+-+Espresso macchiato, macchiato, macchiato
+-+Por favore
+-+Por favore
+-+Espresso macchiato corneo
+-+
+-+Mi amore
+-+Mi amore
+-+Espresso macchiato, macchiato, macchiato
+-+Por favore
+-+Por favore
+-+Espresso macchiato
+-+Espresso macchiato
+-+
+-+Mi like to fly privati
+-+With 24 carati
+-+Also mi casa very
+-+Grandioso
+-+Mi money numeroso
+-+I work around the clocko
+-+That's why I'm sweating like a mafioso
+-+
+-+Life is like spaghetti
+-+It's hard until you make it
+-+No stresso no stresso
+-+It's gonna be espresso
+-+
+-+Mi amore
+-+Mi amore
+-+Espresso macchiato, macchiato, macchiato
+-+Por favore
+-+Por favore
+-+Espresso macchiato
+-+Espresso macchiato
+-+
+-+La la la…
+-+
+-+Espresso macchiato
+-+Espresѕo macchiаto
+-+
+
+commit 3ce1cf2eef753fe0d05d4f62ff4ff44db4a33900
+Author: SzymonG <twoj@email.pl>
+Date:   Thu Jul 3 17:03:08 2025 +0200
+
+    dodoanie historia.txt
+
+diff --git a/historia.txt b/historia.txt
+new file mode 100644
+index 0000000..09405dc
+--- /dev/null
++++ b/historia.txt
+@@ -0,0 +1,198 @@
++commit 5eac6b393d82db1c45886fc42304c0d03427c99c
++Author: SzymonG <twoj@email.pl>
++Date:   Wed Jul 2 19:10:04 2025 +0200
++
++    Przywracam plik finalnykoniec.txt po cofnięciu
++
++diff --git a/finalnykoniec.txt b/finalnykoniec.txt
++index f4efab0..bb6b0a3 100644
++--- a/finalnykoniec.txt
+++++ b/finalnykoniec.txt
++@@ -1,4 +1,4 @@
++-
+++La la la…
++ 
++ Espresso macchiato
++ Espresѕo macchiаto
++\ No newline at end of file
++
++commit e33789f296644e0b6b73081023305e9098284712
++Author: SzymonG <twoj@email.pl>
++Date:   Wed Jul 2 15:56:52 2025 +0200
++
++    finalnykoniec.txt zostala skasowana 1linijka lala
++
++diff --git a/finalnykoniec.txt b/finalnykoniec.txt
++index bb6b0a3..f4efab0 100644
++--- a/finalnykoniec.txt
+++++ b/finalnykoniec.txt
++@@ -1,4 +1,4 @@
++-La la la…
+++
++ 
++ Espresso macchiato
++ Espresѕo macchiаto
++\ No newline at end of file
++
++commit f35dcafc44aab425a51db2d7d5640625364f3007
++Author: SzymonG <twoj@email.pl>
++Date:   Wed Jul 2 15:54:17 2025 +0200
++
++    finalnykoniec.txt zostal dodany
++
++diff --git a/finalnykoniec.txt b/finalnykoniec.txt
++new file mode 100644
++index 0000000..bb6b0a3
++--- /dev/null
+++++ b/finalnykoniec.txt
++@@ -0,0 +1,4 @@
+++La la la…
+++
+++Espresso macchiato
+++Espresѕo macchiаto
++\ No newline at end of file
++
++commit fa4fecda66298415edf4e04b7aa78b0d188825f8
++Author: SzymonG <twoj@email.pl>
++Date:   Wed Jul 2 15:51:17 2025 +0200
++
++    dodaje 2 zwrotke
++
++diff --git a/zwrtoka2.txt b/zwrtoka2.txt
++new file mode 100644
++index 0000000..6d31148
++--- /dev/null
+++++ b/zwrtoka2.txt
++@@ -0,0 +1,12 @@
+++Mi like to fly privati
+++With 24 carati
+++Also mi casa very
+++Grandioso
+++Mi money numeroso
+++I work around the clocko
+++That's why I'm sweating like a mafioso
+++
+++Life is like spaghetti
+++It's hard until you make it
+++No stresso no stresso
+++It's gonna be espresso
++\ No newline at end of file
++
++commit be5f1e3950d1170f1a07e60e2652834a138e07c2
++Author: SzymonG <twoj@email.pl>
++Date:   Wed Jul 2 15:48:42 2025 +0200
++
++    Dodaje refren
++
++diff --git a/refren.txt b/refren.txt
++new file mode 100644
++index 0000000..c833878
++--- /dev/null
+++++ b/refren.txt
++@@ -0,0 +1,14 @@
+++Mi amore
+++Mi amore
+++Espresso macchiato, macchiato, macchiato
+++Por favore
+++Por favore
+++Espresso macchiato corneo
+++
+++Mi amore
+++Mi amore
+++Espresso macchiato, macchiato, macchiato
+++Por favore
+++Por favore
+++Espresso macchiato
+++Espresso macchiato
++\ No newline at end of file
++
++commit 4e5784239a97734426a6a15ebd65cc267d91bfa9
++Author: SzymonG <twoj@email.pl>
++Date:   Wed Jul 2 15:47:47 2025 +0200
++
++    Dodaje 1 zwrotke
++
++diff --git a/zwrotka1.txt b/zwrotka1.txt
++new file mode 100644
++index 0000000..19f0796
++--- /dev/null
+++++ b/zwrotka1.txt
++@@ -0,0 +1,11 @@
+++Ciao bella I'm Tomaso
+++Addicted to tobacco
+++Me like my coffee very importante
+++
+++No time to talk mi scusi
+++My days are very busy
+++And i just own this little ristorante
+++Life may give you lemons
+++When dancing with the demons
+++No stresso no stresso
+++No need to be depresso
++\ No newline at end of file
++
++commit 0a223597e0ffc3fcf92d2c2b0966e4d93c5d41f8
++Author: SzymonG <twoj@email.pl>
++Date:   Wed Jul 2 15:12:12 2025 +0200
++
++    Dodaje plik cala_piosenka.txt z cala piosenka
++
++diff --git a/cala_piosenka.txt b/cala_piosenka.txt
++new file mode 100644
++index 0000000..40d9782
++--- /dev/null
+++++ b/cala_piosenka.txt
++@@ -0,0 +1,53 @@
+++Ciao bella I'm Tomaso
+++Addicted to tobacco
+++Me like my coffee very importante
+++
+++No time to talk mi scusi
+++My days are very busy
+++And i just own this little ristorante
+++Life may give you lemons
+++When dancing with the demons
+++No stresso no stresso
+++No need to be depresso
+++
+++Mi amore
+++Mi amore
+++Espresso macchiato, macchiato, macchiato
+++Por favore
+++Por favore
+++Espresso macchiato corneo
+++
+++Mi amore
+++Mi amore
+++Espresso macchiato, macchiato, macchiato
+++Por favore
+++Por favore
+++Espresso macchiato
+++Espresso macchiato
+++
+++Mi like to fly privati
+++With 24 carati
+++Also mi casa very
+++Grandioso
+++Mi money numeroso
+++I work around the clocko
+++That's why I'm sweating like a mafioso
+++
+++Life is like spaghetti
+++It's hard until you make it
+++No stresso no stresso
+++It's gonna be espresso
+++
+++Mi amore
+++Mi amore
+++Espresso macchiato, macchiato, macchiato
+++Por favore
+++Por favore
+++Espresso macchiato
+++Espresso macchiato
+++
+++La la la…
+++
+++Espresso macchiato
+++Espresѕo macchiаto
+++
+
+commit 5eac6b393d82db1c45886fc42304c0d03427c99c
+Author: SzymonG <twoj@email.pl>
+Date:   Wed Jul 2 19:10:04 2025 +0200
+
+    Przywracam plik finalnykoniec.txt po cofnięciu
+
+diff --git a/finalnykoniec.txt b/finalnykoniec.txt
+index f4efab0..bb6b0a3 100644
+--- a/finalnykoniec.txt
++++ b/finalnykoniec.txt
+@@ -1,4 +1,4 @@
+-
++La la la…
+ 
+ Espresso macchiato
+ Espresѕo macchiаto
+\ No newline at end of file
+
+commit e33789f296644e0b6b73081023305e9098284712
+Author: SzymonG <twoj@email.pl>
+Date:   Wed Jul 2 15:56:52 2025 +0200
+
+    finalnykoniec.txt zostala skasowana 1linijka lala
+
+diff --git a/finalnykoniec.txt b/finalnykoniec.txt
+index bb6b0a3..f4efab0 100644
+--- a/finalnykoniec.txt
++++ b/finalnykoniec.txt
+@@ -1,4 +1,4 @@
+-La la la…
++
+ 
+ Espresso macchiato
+ Espresѕo macchiаto
+\ No newline at end of file
+
+commit f35dcafc44aab425a51db2d7d5640625364f3007
+Author: SzymonG <twoj@email.pl>
+Date:   Wed Jul 2 15:54:17 2025 +0200
+
+    finalnykoniec.txt zostal dodany
+
+diff --git a/finalnykoniec.txt b/finalnykoniec.txt
+new file mode 100644
+index 0000000..bb6b0a3
+--- /dev/null
++++ b/finalnykoniec.txt
+@@ -0,0 +1,4 @@
++La la la…
++
++Espresso macchiato
++Espresѕo macchiаto
+\ No newline at end of file
+
+commit fa4fecda66298415edf4e04b7aa78b0d188825f8
+Author: SzymonG <twoj@email.pl>
+Date:   Wed Jul 2 15:51:17 2025 +0200
+
+    dodaje 2 zwrotke
+
+diff --git a/zwrtoka2.txt b/zwrtoka2.txt
+new file mode 100644
+index 0000000..6d31148
+--- /dev/null
++++ b/zwrtoka2.txt
+@@ -0,0 +1,12 @@
++Mi like to fly privati
++With 24 carati
++Also mi casa very
++Grandioso
++Mi money numeroso
++I work around the clocko
++That's why I'm sweating like a mafioso
++
++Life is like spaghetti
++It's hard until you make it
++No stresso no stresso
++It's gonna be espresso
+\ No newline at end of file
+
+commit be5f1e3950d1170f1a07e60e2652834a138e07c2
+Author: SzymonG <twoj@email.pl>
+Date:   Wed Jul 2 15:48:42 2025 +0200
+
+    Dodaje refren
+
+diff --git a/refren.txt b/refren.txt
+new file mode 100644
+index 0000000..c833878
+--- /dev/null
++++ b/refren.txt
+@@ -0,0 +1,14 @@
++Mi amore
++Mi amore
++Espresso macchiato, macchiato, macchiato
++Por favore
++Por favore
++Espresso macchiato corneo
++
++Mi amore
++Mi amore
++Espresso macchiato, macchiato, macchiato
++Por favore
++Por favore
++Espresso macchiato
++Espresso macchiato
+\ No newline at end of file
+
+commit 4e5784239a97734426a6a15ebd65cc267d91bfa9
+Author: SzymonG <twoj@email.pl>
+Date:   Wed Jul 2 15:47:47 2025 +0200
+
+    Dodaje 1 zwrotke
+
+diff --git a/zwrotka1.txt b/zwrotka1.txt
+new file mode 100644
+index 0000000..19f0796
+--- /dev/null
++++ b/zwrotka1.txt
+@@ -0,0 +1,11 @@
++Ciao bella I'm Tomaso
++Addicted to tobacco
++Me like my coffee very importante
++
++No time to talk mi scusi
++My days are very busy
++And i just own this little ristorante
++Life may give you lemons
++When dancing with the demons
++No stresso no stresso
++No need to be depresso
+\ No newline at end of file
+
+commit 0a223597e0ffc3fcf92d2c2b0966e4d93c5d41f8
+Author: SzymonG <twoj@email.pl>
+Date:   Wed Jul 2 15:12:12 2025 +0200
+
+    Dodaje plik cala_piosenka.txt z cala piosenka
+
+diff --git a/cala_piosenka.txt b/cala_piosenka.txt
+new file mode 100644
+index 0000000..40d9782
+--- /dev/null
++++ b/cala_piosenka.txt
+@@ -0,0 +1,53 @@
++Ciao bella I'm Tomaso
++Addicted to tobacco
++Me like my coffee very importante
++
++No time to talk mi scusi
++My days are very busy
++And i just own this little ristorante
++Life may give you lemons
++When dancing with the demons
++No stresso no stresso
++No need to be depresso
++
++Mi amore
++Mi amore
++Espresso macchiato, macchiato, macchiato
++Por favore
++Por favore
++Espresso macchiato corneo
++
++Mi amore
++Mi amore
++Espresso macchiato, macchiato, macchiato
++Por favore
++Por favore
++Espresso macchiato
++Espresso macchiato
++
++Mi like to fly privati
++With 24 carati
++Also mi casa very
++Grandioso
++Mi money numeroso
++I work around the clocko
++That's why I'm sweating like a mafioso
++
++Life is like spaghetti
++It's hard until you make it
++No stresso no stresso
++It's gonna be espresso
++
++Mi amore
++Mi amore
++Espresso macchiato, macchiato, macchiato
++Por favore
++Por favore
++Espresso macchiato
++Espresso macchiato
++
++La la la…
++
++Espresso macchiato
++Espresѕo macchiаto
++
